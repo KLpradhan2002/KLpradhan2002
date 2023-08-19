@@ -18,10 +18,5 @@ I'm currently working on front-end development projects<br>I'm looking for guide
 ---
 [![](https://visitcount.itsvg.in/api?id=Kamal lochan pradhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 👋 Hi, I’m Kamal lochan pradhan.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Fullstack web development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 My facebook ID-https://www.facebook.com/kamallochan.pradhan.165
 
 
